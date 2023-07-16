@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Voice News AI Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![VoiceNews-AI logo](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/7ce5b4b6-26bf-48ac-999e-b7c81806ebd7)
 
-## Available Scripts
+**Technology Stack**
 
-In the project directory, you can run:
+![React](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/b6b4c157-e807-4b28-af6b-9014255190ba)      ![node](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/694543be-b36f-4ba2-8a47-ceead1a27819)      ![materialui](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/7dcdeee9-509b-49c7-a323-3fc4a6eea0cb)      ![alan](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/d0eb40b0-d229-436c-a35f-3fc227104134)      ![css](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/8b556b19-35a6-4d66-af12-df9516328f17)         ![js1](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/196e0d4c-c3d2-4916-9758-f696758c9db7)
 
-### `npm start`
+**Features of Alan AI**
+ 
+![alanai](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/033889cd-b401-4dee-a41f-ad42bbed8603)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Intuitive Chat interface leveraging GUI
+2. Semantic Search
+3. ChatGPT like experience for your App
+4. Integration with your data
 
-### `npm test`
+**Key Features of Voice News AI**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Voice-Activated News: Access news updates by providing audio commands, enabling a hands-free and convenient news consumption experience.
+2. News by Categories: Explore news articles categorized into various topics such as Business, Entertainment, General, Health, Science, Sports, Technology and more.
+3. Customized News by Terms: Search for news articles based on specific terms or keywords, allowing users to retrieve relevant and targeted information.
+4. Latest Technology News: Stay up to date with the latest happenings in the world of technology through dedicated news sections and curated articles.
+5. Interactive Voice Commands: Engage in interactive conversations with the application, enabling users to ask questions, seek clarifications, or request additional information about specific news topics.
+6. Seamless Integration: The application seamlessly integrates ReactJs, NodeJs, and Alan AI to deliver a cohesive and smooth user experience.
