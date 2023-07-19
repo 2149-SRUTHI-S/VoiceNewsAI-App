@@ -1,6 +1,6 @@
 # Voice News AI Application
 
-Contributors: Sruthi, Swetha
+Contributors: Sruthi S, Swetha S
 
 ![VoiceNews-AI logo](https://github.com/Swetha5021/VoiceNews-AI/assets/110710815/7ce5b4b6-26bf-48ac-999e-b7c81806ebd7)
 
